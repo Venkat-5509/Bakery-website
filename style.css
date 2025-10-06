@@ -3,18 +3,6 @@ body{
     padding: 0px;
     margin: 0px;
 }
-/* Styles for screens smaller than or equal to 768px (e.g., tablets and mobile) */
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-  /* Further adjustments for smaller screens */
-}
-
-/* Styles for screens smaller than or equal to 480px (e.g., smartphones) */
-@media screen and (max-width: 480px) {
-  /* Specific mobile-only styles */
-}
 #navbar{
     border: 10px;
     background-color: darkorchid ;
@@ -351,3 +339,4 @@ footer{
     font-weight: bold;
 
 }
+
